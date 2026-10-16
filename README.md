@@ -168,28 +168,6 @@ The proposed `Dashboard` design below is a visual concept only; it does **not** 
 
 Recommended future measures include total registrations, spins completed, prize counts, registration trend by day, valid rewards, and redeemed rewards after a redemption workflow is added.
 
-## Publish this project to GitHub
-
-The source package is ready to upload, but no GitHub repository has been created automatically from this workspace. To publish it under your account:
-
-1. Sign in to GitHub and create a **new empty repository** named `united-world-spin-win` (do not initialize another README, license, or `.gitignore`).
-2. Download and extract the repository ZIP from the conversation.
-3. Open a terminal in the extracted `united-world-spin-win` folder.
-4. Run the commands below, replacing `YOUR_USERNAME` with your GitHub username:
-
-```bash
-git init
-git add .
-git commit -m "Initial project showcase"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/united-world-spin-win.git
-git push -u origin main
-```
-
-5. On GitHub, open `README.md` and confirm images render. Uploads include the documentation PDF and screenshots.
-
-Before setting a repository to public, review all contents and your organization's policies. This package contains source and demo screenshots, not the Google Sheet's participant rows or script credentials. Keep any live spreadsheet private. If you want the code private, choose a private repository instead.
-
 ## Local visual inspection
 
 You may run a local static server to inspect layout-only HTML:
